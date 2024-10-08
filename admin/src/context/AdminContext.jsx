@@ -12,8 +12,8 @@ const AdminContextProvider = (props) => {
     const [dashData, setDashData]= useState(false)
 
 
-    // imported .env url here to access url
-    const backendUrl = import.meta.env.VITE_BACKEND_URL;
+    // imported backEnd url here to access backend
+    const backendUrl = "https://appointment-booking-app-backend.onrender.com";
 
     const getAllDoctors = async () => {
         try {
