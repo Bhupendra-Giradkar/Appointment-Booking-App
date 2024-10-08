@@ -8,7 +8,7 @@ export const AppContext = createContext();
 const AppContextProvider = (props) => {
 
     const currencySymbol = "₹";
-    const backendUrl = import.meta.env.VITE_BACKEND_URL;
+    const backendUrl = "https://appointment-booking-app-backend.onrender.com";
     const [doctors, setDoctors] = useState([]);
     
     //  save user input authentication token and save into local state
