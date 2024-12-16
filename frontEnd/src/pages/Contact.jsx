@@ -16,6 +16,7 @@ const Contact = () => {
           <p className='text-gray-500'>Tel: (123)888-05789 <br /> PresciptoDoctors@gmail.com</p>
           <p className='font-semibold text-lg text-gray-600'>CAREERS AT PRESCRIPTO</p>
           <p className='text-gray-500'>Learn more about our team and job openings.</p>
+          <p>Hello Welcome to code</p>
           <button className='border border-black px-8 text-sm py-4 hover:bg-black hover:text-white transition-all duration-500'>Explore More</button>
         </div>
       </div>
