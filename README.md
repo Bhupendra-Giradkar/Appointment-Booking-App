@@ -5,11 +5,6 @@
 ## Check live demo :
  [User Dashboard](https://appointment-booking-app-frontend.onrender.com)  🚀
  
- [Doctor/ Admin Dashboard](https://appointment-booking-app-admin.onrender.com)  🚀 
- ### check admin dashboard below email and password 
- - ADMIN_EMAIL="admin@prescripto.com"
- - ADMIN_PASSWORD="123456#"
-
  ## Tech Stack Used :
  - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)   ![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)     ![react.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)   ![node.js](	https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
  - ![Axios.js](	https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)   ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)    ![jsojnwebtoken](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
